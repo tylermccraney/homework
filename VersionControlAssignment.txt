@@ -3,3 +3,4 @@ Version Control Assignment (RegEx Hw)
 2 Passwords that start with the letter "a":
 3 Passwords that only consist of numbers:
 4 Passwords that have any 5 letters followed by two numbers:
+5 Passwords that contain a repeated 3 letter pattern (e.g., dogdog or catcat):
