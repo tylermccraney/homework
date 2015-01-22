@@ -4,3 +4,5 @@ Version Control Assignment (RegEx Hw)
 3 Passwords that only consist of numbers: ^\d+$
 4 Passwords that have any 5 letters followed by two numbers: [a-z]{5}\d{2}
 5 Passwords that contain a repeated 3 letter pattern (e.g., dogdog or catcat): ([a-z]{3})\1
+
+Thanks for your help Jonathan! -<(((>~<
